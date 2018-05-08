@@ -25,6 +25,8 @@ hr{
 }
 
 .button{
+  padding:0;
+  margins:0;
   background-color:#5C6AC4;
   color:#FFFFFF;
   font-weight:bold;
