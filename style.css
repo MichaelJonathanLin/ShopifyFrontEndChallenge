@@ -1,0 +1,44 @@
+html body {
+  background-color: #000639;
+  color:white;
+  font-family: Helvetica;
+}
+
+h1 {
+  font-size:24px;
+}
+
+p {
+  font-size:16px;
+}
+
+hr{
+  width:40px;
+  height:2px;
+  background-color:#7AB55C;
+  display:relative;
+  left:0px;
+}
+.formItem{
+  padding:20px;
+  margin:20px;
+}
+
+.button{
+  background-color:#5C6AC4;
+  color:#FFFFFF;
+  font-weight:bold;
+  width:100%;
+  margin:10px;
+}
+
+.inputBlock{
+  display:inline;
+  vertical-align:top;
+  margin:0;
+  padding:0;
+}
+
+.background {
+  background-color: #000639;
+}
